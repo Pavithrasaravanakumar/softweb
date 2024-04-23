@@ -757,7 +757,7 @@ contact.html
     </footer>
 </body>
 </html>
-
+```
 
 ## OUTPUT:
 ```
@@ -768,7 +768,7 @@ contact.html
 ![alt text](3.png)
 
 ![alt text](4.png)
-
+```
 
 
 ## RESULT:
