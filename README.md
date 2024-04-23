@@ -762,7 +762,7 @@ contact.html
 
 
 ## OUTPUT:
-```
+
 ![alt text](1.png)
 
 ![alt text](2.png)
@@ -770,9 +770,6 @@ contact.html
 ![alt text](3.png)
 
 ![alt text](4.png)
-```
-
-
 
 
 ## RESULT:
