@@ -760,15 +760,14 @@ contact.html
 ```
 
 ## OUTPUT:
-```
-![alt text](1.png)
+![1](https://github.com/Pavithrasaravanakumar/softweb/assets/150664013/e37ffd4a-fafb-44f1-8c54-81b5ba84dc33)
+![2](https://github.com/Pavithrasaravanakumar/softweb/assets/150664013/bfd7d0a2-c2d7-4883-b1ba-e0bf03997ad3)
+![3](https://github.com/Pavithrasaravanakumar/softweb/assets/150664013/ae2c489f-33d3-48e8-9241-001c69ac4c0c)
+![4](https://github.com/Pavithrasaravanakumar/softweb/assets/150664013/72ffa787-803f-43cb-84b2-c03a2f01bfe5)
 
-![alt text](2.png)
 
-![alt text](3.png)
 
-![alt text](4.png)
-```
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
